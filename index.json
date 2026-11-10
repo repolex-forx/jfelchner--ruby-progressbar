@@ -1,0 +1,11 @@
+{
+  "org": "jfelchner",
+  "repo": "ruby-progressbar",
+  "versions": [
+    {
+      "commit": "bafa278bfb14353282c2ae3207060f69615db7ae",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:10:45.917521+00:00"
+    }
+  ]
+}
