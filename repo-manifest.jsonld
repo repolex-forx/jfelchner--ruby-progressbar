@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jfelchner/ruby-progressbar/commit/bafa278bfb14353282c2ae3207060f69615db7ae",
       "git:hexsha": "bafa278bfb14353282c2ae3207060f69615db7ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T04:10:45.838208+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jfelchner/ruby-progressbar/commit/d0f5982acbb9e8f70c3b774b8c4c3d0980439957",
